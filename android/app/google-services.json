@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1029646384047",
+    "project_id": "fyp-ar-app-ae336",
+    "storage_bucket": "fyp-ar-app-ae336.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1029646384047:android:42c6f159b56b05354d0d5a",
+        "android_client_info": {
+          "package_name": "com.momin.fyp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1029646384047-4867hqtdr02mkosg8d5k94m77lj9cvno.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.momin.fyp",
+            "certificate_hash": "0bc8006a01125fcd39c8a6a9db00c446f4f80a7a"
+          }
+        },
+        {
+          "client_id": "1029646384047-mml3a72e66ufpu0up91aj0bgihuuqfqc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD65EqdS8ZDBGSXhdJ3QEeyK0_Kih-W6LQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1029646384047-mml3a72e66ufpu0up91aj0bgihuuqfqc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

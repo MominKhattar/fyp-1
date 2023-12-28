@@ -36,14 +36,14 @@ dependencies:
   cupertino_icons: ^1.0.2
   model_viewer_plus: ^1.2.0
   get: ^4.6.5
-  firebase_auth: ^3.3.19
-  cloud_firestore: ^3.1.17
-  firebase_core: ^1.17.1
-  google_fonts: ^2.3.1
+  firebase_auth: ^4.15.3
+  cloud_firestore: ^4.13.6
+  firebase_core: ^2.24.2
+  google_fonts: ^4.0.4
   shared_preferences: ^2.0.15
-  flutter_stripe: ^3.2.0
+  flutter_stripe: ^9.5.0+1
   google_sign_in:
-  flutter_facebook_auth: ^4.3.4+2
+  flutter_facebook_auth: ^5.0.11
   uuid:
   intl:
   http: ^0.13.4
